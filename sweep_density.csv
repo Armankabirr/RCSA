@@ -1,0 +1,4 @@
+density,speedKmh,requesterRatio,numResourceTypes,totalRequests,successes,failures,successRatio,totalPackets,avgDelay,avgSuccessDelay
+50,40,20,3,40,23,17,0.575,63,2.60574,0.0969433
+100,40,20,3,80,49,21,0.6125,130,1.82016,0.0287969
+150,40,20,3,120,64,20,0.533333,184,1.43667,0.0106287
